@@ -1,7 +1,7 @@
 # 🤖 Cognitive Mobile Robot (Arduino UNO Q)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Platform](https://img.shields.io/badge/Platform-ESP32_S3_Box_3-blue)
+![Platform](https://img.shields.io/badge/Platform-Arduino_UNO_Q-00979D)
 ![OS](https://img.shields.io/badge/OS-Linux_%2B_Zephyr_RTOS-darkblue)
 ![Language](https://img.shields.io/badge/Languages-Python_%7C_C%2B%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
