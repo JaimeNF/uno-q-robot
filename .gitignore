@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+*.log
+
+# --- Arduino / PlatformIO / Zephyr ---
+.pio/
+.arduino15/
+build/
+output/
+*.elf
+*.bin
+*.hex
+*.mp4
+
+# --- IDEs y Sistema Operativo ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
