@@ -85,8 +85,8 @@ El sistema opera mediante dos dominios de ejecución concurrentes:
 └── Docs/
     ├── Images/                 # Evidencia gráfica, diagramas y capturas
     └── Report/                 # Memoria técnica completa (LaTeX/PDF)
-
-    ## ⚙️ Instalación y Despliegue (Arduino App Lab)
+```
+## ⚙️ Instalación y Despliegue (Arduino App Lab)
 
 El despliegue de este proyecto se ha simplificado para realizarse íntegramente desde la interfaz web **Arduino App Lab**, sin necesidad de ejecutar comandos de terminal ni conexiones SSH complejas.
 
