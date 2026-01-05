@@ -1,4 +1,4 @@
-# 🤖 Cognitive Mobile Robot (Arduino UNO Q)
+# 🤖 Robót movil (Arduino UNO Q)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-Arduino_UNO_Q-00979D)
