@@ -7,11 +7,11 @@
 #include "soc/rtc_cntl_reg.h"
 
 // 1. CONFIGURACIÓN DE RED
-const char* ssid = "MIWIFI_domo";
-const char* password = "aDeZETA@22";
+const char* ssid = "WIFI_SSID";
+const char* password = "WIFI_PSWD";
 
 // 2. CONFIGURACIÓN MQTT
-const char* mqtt_server = "192.168.1.100"; 
+const char* mqtt_server = "BROKER_IP_ADDRESS"; 
 const int mqtt_port = 1883;
 const char* mqtt_user = "mqtt_user";
 const char* mqtt_pass = "root";
