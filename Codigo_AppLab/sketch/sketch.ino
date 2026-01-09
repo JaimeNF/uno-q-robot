@@ -6,7 +6,7 @@
 
 #include "src/motors.h"
 #include "src/remote.h"
-#include "src/batteryMonitor.h"
+#include "src/BatteryMonitor.h"
 #include "src/encoders.h"
 #include "src/MPU6050_Driver.h"
 #include "src/sonar.h"
