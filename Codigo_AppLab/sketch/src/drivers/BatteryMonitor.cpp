@@ -1,4 +1,4 @@
-#include "batteryMonitor.h"
+#include "BatteryMonitor.h"
 
 // Tabla de voltaje
 const float BatteryMonitor::VOLTAGE_TABLE[BatteryMonitor::TABLE_SIZE] = {
